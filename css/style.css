@@ -299,7 +299,8 @@ image {
   font-size: 14px;
   color: #fff;
 }
-.buttom-text1-p2 {
+.buttom-text1::after {
+  content: 'Marian';
   color: #5863F8;
 }
 .buttom-text2 {
